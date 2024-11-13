@@ -10,5 +10,5 @@ void setup()
 void loop()
 {
   digitalWrite(motor1pin1,HIGH);    //writing high to low, making motor turn clock wise
-  digitalWrite(motor1pin1,HIGH);
+  digitalWrite(motor1pin1,LOW);
 }
