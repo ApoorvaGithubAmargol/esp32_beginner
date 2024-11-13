@@ -1,5 +1,5 @@
 # esp32_beginner
-This repository consist of the beginner Embedded system projects related to ESP 32.
+This repository consist of the beginner Embedded system projects related to ESP 32. The codes were coded in Arduino IDE.
 
 
 Ultasonic sensor run using ESP32:
