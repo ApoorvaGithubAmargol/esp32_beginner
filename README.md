@@ -22,3 +22,10 @@ https://github.com/user-attachments/assets/f6aa34e4-04cd-4af9-b715-6629a7169c9b
 
 
 
+Bot moves front:
+---------
+This was done using the same logic in motor control, just have to make the right connections and mark the pins rightly.
+
+
+https://github.com/user-attachments/assets/12cf1ebe-767a-463a-8c6a-f88e6957a9e5
+
